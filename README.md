@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GJennrich
 - 👀 I’m interested in Weather, Machine Learning, and Sports
-- 🌱 I’m currently learning ML aproches to S2S prediction
+- 🌱 I’m currently learning ML approaches to S2S prediction
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me ...
 
